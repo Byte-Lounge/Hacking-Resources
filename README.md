@@ -2,7 +2,6 @@
 
 # A list of resources that is applicable to hackers, pentesters and security personnel.
 
-If you would like to contribute, please follow this [link](Contribution Guidelines.md) 
 
 ## Youtube Channels 
 
