@@ -1,6 +1,6 @@
 ![Byte Lounge](Banner.png)
 
-# A list of resources that is applicable to hackers, pentesters and security personnel.
+** A list of resources that is applicable to hackers, pentesters and security personnel. **
 
 
 ## Youtube Channels 
