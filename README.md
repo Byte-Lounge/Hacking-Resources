@@ -1,5 +1,8 @@
 ![Byte Lounge](Banner.png)
-# Hacking-Resources
+
+# A list of resources that is applicable to hackers, pentesters and security personnel.
+
+If you would like to contribute, please follow this [link](Contribution Guidelines.md) 
 
 ## Youtube Channels 
 
@@ -31,4 +34,10 @@ Website | Description
 [HackerOne](https://www.hackerone.com/)  |HackerOne is a vulnerability coordination and bug bounty platform.
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.
 [CyberChef](https://gchq.github.io/CyberChef/)  |CyberChef is a free service that you may use locally or online to convert, parse or carry out well over 100 different operations.
+[HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
+
+##  Online Courses
+Courses | Description
+[Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/)  |The Cyber Mentor ethical hacking course.
+[Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.
 
