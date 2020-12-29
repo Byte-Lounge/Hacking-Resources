@@ -1,3 +1,4 @@
+
 # Hacking-Resources
 
 ## Youtube Channels 
@@ -22,6 +23,12 @@ Book | Description
 [The Hacker Playbook 3](https://www.amazon.co.uk/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)  |This book is for those stepping up their penetration testing game or understand how advanced adversaries think and act. 
 
 ##  Websites
-Book | Description
+Website | Description
 ---- | ----
-[]
+[HackTheBox](https://www.hackthebox.eu/)  |HTB is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
+[TryHackMe](https://tryhackme.com/)  |TryHackMe is an online platform for learning cyber security, using hands-on exercises and labs!
+[OverTheWire](https://overthewire.org/wargames/)  |The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+[HackerOne](https://www.hackerone.com/)  |HackerOne is a vulnerability coordination and bug bounty platform.
+[CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.
+[CyberChef](https://gchq.github.io/CyberChef/)  |CyberChef is a free service that you may use locally or online to convert, parse or carry out well over 100 different operations.
+
