@@ -36,7 +36,8 @@ Website | Description
 [HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
 
 ##  Online Courses
-Courses | Description
+Course | Description
+---- | ----
 [Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/)  |The Cyber Mentor ethical hacking course.
 [Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.
 
