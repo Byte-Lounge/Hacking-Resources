@@ -1,6 +1,6 @@
 ![Byte Lounge](Banner.png)
 
-## A list of resources that would be helpful for hackers, pentesters.
+# A list of resources that would be helpful for hackers, pentesters.
 
 
 ## Youtube Channels 
