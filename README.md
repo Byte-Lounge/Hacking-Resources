@@ -1,4 +1,4 @@
-![Byte Lounge](Banner.png)
+![Byte Lounge](BYTE_LOUNGE_BANNER.png)
 
 # A list of resources that would be helpful for hackers, pentesters.
 
