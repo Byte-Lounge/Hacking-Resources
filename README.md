@@ -41,7 +41,6 @@ Website | Description
 
 
 ## Youtube Channels 
-
 Channel | Description
 ---- | ----
 [Andy](https://www.youtube.com/c/rot169/featured)  |Developing intermediate-level skills.
