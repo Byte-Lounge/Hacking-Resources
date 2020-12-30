@@ -40,7 +40,8 @@ Website | Description
 [OpenSecuirtyTraining](https://OpenSecurityTraining.info)  |OpenSecurityTraining.info is dedicated to sharing training material for computer security classes.
 [OverTheWire](https://overthewire.org/wargames/)  |The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 [PicoCTF](https://picoctf.org/)  |PicoCTF is the largest cybersecurity hacking contest for middle and high school students.
-[Portswigger-Web Security](https://portswigger.net/web-security/all-materials)  |Website dedicated to showing indepth points of web security
+[Portswigger-Web Security](https://portswigger.net/web-security/all-materials)  |Website dedicated to showing indepth points of web security.
+[SecJuice](https://www.secjuice.com/)  |Secjuice is the only non-profit, independent and volunteer led publication in the information security space.
 [TryHackMe](https://tryhackme.com/)  |TryHackMe is an online platform for learning cyber security, using hands-on exercises and labs.
 [Vulnhub](https://www.vulnhub.com/)  |To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
 
