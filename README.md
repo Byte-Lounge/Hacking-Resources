@@ -2,19 +2,6 @@
 
 # A list of resources that would be helpful for hackers, pentesters.
 
-
-## Youtube Channels 
-
-Channel | Description
----- | ----
-[Andy](https://www.youtube.com/c/rot169/featured)  |Developing intermediate-level skills.
-[DAY0](https://www.youtube.com/c/dayzerosec)  | Podcasts as well as other reverse engineering / exploit development-related media.
-[IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  |Walkthroughs on retired machines on the HackTheBox website.
-[John Hammond](https://www.youtube.com/c/JohnHammond010/featured)  |Tutorials on programming languages and other hacking related subjects.
-[LiveOverFlow](https://www.youtube.com/c/LiveOverflowCTF/featured)  |Capture the Flag write up's and hardware security research channel.
-[NetworkChuck](https://www.youtube.com/user/NetworkChuck)  |Everything IT related, this channel is involved in.
-[The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |Helpful guides and tutorials that include indepth knowledge on certain subject matters.
-
 ## Books
 Book | Description
 ---- | ----
@@ -29,6 +16,13 @@ Book | Description
 [The Hacker Playbook 3](https://www.amazon.co.uk/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)  |This book is for those stepping up their penetration testing game or understand how advanced adversaries think and act.
 [The Shellcoder's Handbook](https://www.amazon.co.uk/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X)  |In a nutshell, this book is about code and data and what happens when the two become confused. 
 
+##  Online Courses
+Course | Description
+---- | ----
+[Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.
+[Linux Heap Exploitation - Part 1](https://www.udemy.com/course/linux-heap-exploitation-part-1/)  |An hands-on course, students will learn new techniques and developing their own exploits based on what they've learned.
+[Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/)  |The Cyber Mentor ethical hacking course.
+
 ##  Websites
 Website | Description
 ---- | ----
@@ -42,9 +36,15 @@ Website | Description
 [Portswigger-Web Security](https://portswigger.net/web-security/all-materials)  |Website dedicated to showing indepth points of web security
 [TryHackMe](https://tryhackme.com/)  |TryHackMe is an online platform for learning cyber security, using hands-on exercises and labs.
 
-##  Online Courses
-Course | Description
+
+## Youtube Channels 
+
+Channel | Description
 ---- | ----
-[Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.
-[Linux Heap Exploitation - Part 1](https://www.udemy.com/course/linux-heap-exploitation-part-1/)  |An hands-on course, students will learn new techniques and developing their own exploits based on what they've learned.
-[Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/)  |The Cyber Mentor ethical hacking course.
+[Andy](https://www.youtube.com/c/rot169/featured)  |Developing intermediate-level skills.
+[DAY0](https://www.youtube.com/c/dayzerosec)  | Podcasts as well as other reverse engineering / exploit development-related media.
+[IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  |Walkthroughs on retired machines on the HackTheBox website.
+[John Hammond](https://www.youtube.com/c/JohnHammond010/featured)  |Tutorials on programming languages and other hacking related subjects.
+[LiveOverFlow](https://www.youtube.com/c/LiveOverflowCTF/featured)  |Capture the Flag write up's and hardware security research channel.
+[NetworkChuck](https://www.youtube.com/user/NetworkChuck)  |Everything IT related, this channel is involved in.
+[The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |Helpful guides and tutorials that include indepth knowledge on certain subject matters.
