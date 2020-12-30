@@ -31,10 +31,13 @@ Website | Description
 [HackerOne](https://www.hackerone.com/)  |HackerOne is a vulnerability coordination and bug bounty platform.
 [HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
 [HackTheBox](https://www.hackthebox.eu/)  |HTB is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
+[HackThisSite](https://www.hackthissite.org/)  |HackThisSite.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills.
 [OpenSecuirtyTraining](https://OpenSecurityTraining.info)  |OpenSecurityTraining.info is dedicated to sharing training material for computer security classes.
 [OverTheWire](https://overthewire.org/wargames/)  |The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+[PicoCTF](https://picoctf.org/)  |PicoCTF is the largest cybersecurity hacking contest for middle and high school students.
 [Portswigger-Web Security](https://portswigger.net/web-security/all-materials)  |Website dedicated to showing indepth points of web security
 [TryHackMe](https://tryhackme.com/)  |TryHackMe is an online platform for learning cyber security, using hands-on exercises and labs.
+[Vulnhub](https://www.vulnhub.com/)  |To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
 
 
 ## Youtube Channels 
