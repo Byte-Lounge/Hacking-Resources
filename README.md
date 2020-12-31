@@ -6,6 +6,7 @@
 Article | Description
 ---- | ----
 [So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  |Great guide on how to become an hacker/pentester.
+[Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) | Good article for understanding network pivoting during penetration tests with multiple networks.
 
 ## Books
 Book | Description
