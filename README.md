@@ -33,6 +33,10 @@ Website | Description
 ---- | ----
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.
 [CyberChef](https://gchq.github.io/CyberChef/)  |CyberChef is a free service that you may use locally or online to convert, parse or carry out well over 100 different operations.
+[BoxenTriq](https://www.boxentriq.com/code-breaking) |Free tools and resources to help you solve code-breaking challenges and ciphers with some automation support.
+[dcode.fr](https://www.dcode.fr/en) |dCode has a huge library of scripts for decoding or encoding messages with standard cryptography techniques.
+[Steganography Online](https://stylesuxx.github.io/steganography/) |Online Steganography tool with basic encode/decode functionality
+[StegOnline](https://stegonline.georgeom.net/upload) |A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed. View a live demo or download the offline version [here](https://github.com/Ge0rg3/StegOnline)
 [HackerOne](https://www.hackerone.com/)  |HackerOne is a vulnerability coordination and bug bounty platform.
 [HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
 [HackTheBox](https://www.hackthebox.eu/)  |HTB is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
