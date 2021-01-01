@@ -5,8 +5,8 @@
 ## Articles
 Article | Description
 ---- | ----
-[So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  |Great guide on how to become an hacker/pentester.
 [Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) | Good article for understanding network pivoting during penetration tests with multiple networks.
+[So You Want To Be A Hacker: 2021 Edition](https://tcm-sec.com/so-you-want-to-be-a-hacker-2021-edition/)  |Great guide on how to become an hacker/pentester.
 
 ## Books
 Book | Description
@@ -36,13 +36,13 @@ Website | Description
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.
 [CyberChef](https://gchq.github.io/CyberChef/)  |CyberChef is a free service that you may use locally or online to convert, parse or carry out well over 100 different operations.
 [dcode.fr](https://www.dcode.fr/en) |dCode has a huge library of scripts for decoding or encoding messages with standard cryptography techniques.
+[GTFOBins](https://gtfobins.github.io/) |GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
 [HackerOne](https://www.hackerone.com/)  |HackerOne is a vulnerability coordination and bug bounty platform.
 [HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
 [HackTheBox](https://www.hackthebox.eu/)  |HTB is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
 [HackThisSite](https://www.hackthissite.org/)  |HackThisSite.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills.
 [OpenSecuirtyTraining](https://OpenSecurityTraining.info)  |OpenSecurityTraining.info is dedicated to sharing training material for computer security classes.
 [OverTheWire](https://overthewire.org/wargames/)  |The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
-[GTFOBins](https://gtfobins.github.io/) |GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
 [PicoCTF](https://picoctf.org/)  |PicoCTF is the largest cybersecurity hacking contest for middle and high school students.
 [Portswigger-Web Security](https://portswigger.net/web-security/all-materials)  |Website dedicated to showing indepth points of web security.
 [SecJuice](https://www.secjuice.com/)  |Secjuice is the only non-profit, independent and volunteer led publication in the information security space.
