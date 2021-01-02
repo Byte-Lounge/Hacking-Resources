@@ -36,6 +36,7 @@ Website | Description
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.
 [CyberChef](https://gchq.github.io/CyberChef/)  |CyberChef is a free service that you may use locally or online to convert, parse or carry out well over 100 different operations.
 [dcode.fr](https://www.dcode.fr/en) |dCode has a huge library of scripts for decoding or encoding messages with standard cryptography techniques.
+[explainshell](https://explainshell.com/)  |Command-line to see the help text that matches each argument
 [GTFOBins](https://gtfobins.github.io/) |GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.
 [HackerOne](https://www.hackerone.com/)  |HackerOne is a vulnerability coordination and bug bounty platform.
 [HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
