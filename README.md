@@ -21,6 +21,14 @@ Book | Description
 [The Hacker Playbook 3](https://www.amazon.co.uk/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)  |This book is for those stepping up their penetration testing game or understand how advanced adversaries think and act.
 [The Shellcoder's Handbook](https://www.amazon.co.uk/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X)  |In a nutshell, this book is about code and data and what happens when the two become confused. 
 
+## Certifications
+Certificates | Description
+---- | ----
+[Certified Ethical Hacking V11](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  |Certified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems.
+[CompTIA Security+](https://www.comptia.org/certifications/security)  |CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.
+[CREST Registered Penetration Tester](https://www.crest-approved.org/professional-qualifications/crest-exams/index.html)  |The CREST Registered Penetration Tester examination is recognised by the NCSC as providing the minimum standard for CHECK Team Member status and is designed to assess a candidate’s ability to carry out basic vulnerability assessment and penetration testing tasks.
+[Offensive Security Certified Professional - OSCP](https://www.offensive-security.com/pwk-oscp/)  |The OSCP is a foundational penetration testing certification, intended for those seeking a step up in their skills and career. PEN-200 and time in the practice labs prepare you for the certification exam.
+
 ##  Online Courses
 Course | Description
 ---- | ----
