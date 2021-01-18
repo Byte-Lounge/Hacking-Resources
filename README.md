@@ -26,23 +26,33 @@ Book | Description
 ## Certifications
 Certificates | Description
 ---- | ----
+[Certification Road Map](https://pauljerimy.com/security-certification-roadmap/)  |A chart attempts to classify and rank security certifications based on reputation, difficulty, and usefulness of the material covered.
 [Certified Ethical Hacking V11](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)  |Certified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems.
-[CompTIA Security+](https://www.comptia.org/certifications/security)  |CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career.
+[CompTIA Security+](https://www.comptia.org/certifications/security)  |CompTIA Security+ is a entry level certification that validates you have a good baseline of skills in security operations, assessing security posture, laws and regulations.
+[CompTIA Pentest+](https://www.comptia.org/certifications/security)  |CompTIA Pentest+ is a new certification which is a good mid-point between Security+ and OSCP. Focus on tools and methodologies for conducting pentests.
 [CREST Registered Penetration Tester](https://www.crest-approved.org/professional-qualifications/crest-exams/index.html)  |The CREST Registered Penetration Tester examination is recognised by the NCSC as providing the minimum standard for CHECK Team Member status and is designed to assess a candidate’s ability to carry out basic vulnerability assessment and penetration testing tasks.
 [Offensive Security Certified Professional - OSCP](https://www.offensive-security.com/pwk-oscp/)  |The OSCP is a foundational penetration testing certification, intended for those seeking a step up in their skills and career. PEN-200 and time in the practice labs prepare you for the certification exam.
+[Professor Messer](https://www.youtube.com/user/professormesser) |Well-known channel with quality courses preparing you for A+, Network+ and Security+ certifications.
+
+https://www.comptia.org/certifications/pentest
 
 ##  Online Courses
 Course | Description
 ---- | ----
+[Cybrary](https://app.cybrary.it/) | Cybersecurity Professional Development Platform - contains many quality courses with hands-on labs e.g. for Pentest+ certification. Subscription based. 3 day free trial.
 [Learn Ethical Hacking From Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/)  |Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.
 [Linux Heap Exploitation - Part 1](https://www.udemy.com/course/linux-heap-exploitation-part-1/)  |An hands-on course, students will learn new techniques and developing their own exploits based on what they've learned.
+[Metasploit unleashed](https://www.offensive-security.com/metasploit-unleashed/) | Metasploit Unleashed (MSFU) course is provided free of charge by Offensive Security focusing on Metasploit framework.
+[Pluralsight](https://www.pluralsight.com/) |Wealth of online courses in all things IT. Subscription based. 200 minutes watching free trial.
 [Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/)  |The Cyber Mentor ethical hacking course.
+
+
 
 ##  Websites
 Website | Description
 ---- | ----
 [BoxenTriq](https://www.boxentriq.com/code-breaking) |Free tools and resources to help you solve code-breaking challenges and ciphers with some automation support.
-[Certification Road Map](https://pauljerimy.com/security-certification-roadmap/)  |Certification entities strive to help by providing standardized exams that test specific knowledge and issuing verifiable certifications to successful testers.
+[Bugcrowd bug bounty list](https://www.bugcrowd.com/bug-bounty-list/) |The most comprehensive, up to date crowdsourced list of bug bounty and security disclosure programs from across the web curated by the hacker community.
 [CTFtime](https://ctftime.org/)  |CTF archive with a rating system as well.
 [CyberChef](https://gchq.github.io/CyberChef/)  |CyberChef is a free service that you may use locally or online to convert, parse or carry out well over 100 different operations.
 [dcode.fr](https://www.dcode.fr/en) |dCode has a huge library of scripts for decoding or encoding messages with standard cryptography techniques.
@@ -52,8 +62,12 @@ Website | Description
 [HackTheBox Academy](https://academy.hackthebox.eu/)  |Cyber security training with hands-on exercises and labs made by Hack The Box.
 [HackTheBox](https://www.hackthebox.eu/)  |HTB is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field.
 [HackThisSite](https://www.hackthissite.org/)  |HackThisSite.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills.
+[HighOn.Coffee](https://highon.coffee/) |Penetration Testing && Security Research Blog. A lot of various cheatsheets, pentest tools.
+[Kali linux tools](https://tools.kali.org/tools-listing) |List of all hacking tools included in the most popular hacking operating system.
+[Khaotic Developments](https://khaoticdev.net/cheatsheets/) |A collection of links to other high quality pentest resources, cheatsheets, guides etc.
 [OpenSecuirtyTraining](https://OpenSecurityTraining.info)  |OpenSecurityTraining.info is dedicated to sharing training material for computer security classes.
 [OverTheWire](https://overthewire.org/wargames/)  |The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+[Pentest Monkey]()
 [PicoCTF](https://picoctf.org/)  |PicoCTF is the largest cybersecurity hacking contest for middle and high school students.
 [Portswigger-Web Security](https://portswigger.net/web-security/all-materials)  |Website dedicated to showing indepth points of web security.
 [SecJuice](https://www.secjuice.com/)  |Secjuice is the only non-profit, independent and volunteer led publication in the information security space.
@@ -62,7 +76,8 @@ Website | Description
 [StegOnline](https://stegonline.georgeom.net/upload) |A web-based, enhanced and open-source port of StegSolve. Upload any image file, and the relevant options will be displayed. View a live demo or download the offline version [here](https://github.com/Ge0rg3/StegOnline)
 [Vulnhub](https://www.vulnhub.com/)  |To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
 [Virtual Card Reader](https://www.masswerk.at/cardreader/)  |The Virtual Card Reader” scans and parses any punch card images generated by “The Virtual Keypunch.
-[We Chall.net](https://www.wechall.net/)  |For the people not familiar with challenge sites, a challenge site is mainly a site focussed on offering computer-related problems. Users can register at such a site and start solving challenges.
+[We Chall.net](https://www.wechall.net/)  |Site with challenges mainly focussed on computer-related problems. UI is bad but there's a huge amount of specialised sites linked. Also can track our  progress with the linked sites. 
+
 
 
 ## Youtube Channels 
@@ -73,5 +88,7 @@ Channel | Description
 [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)  |Walkthroughs on retired machines on the HackTheBox website.
 [John Hammond](https://www.youtube.com/c/JohnHammond010/featured)  |Tutorials on programming languages and other hacking related subjects.
 [LiveOverFlow](https://www.youtube.com/c/LiveOverflowCTF/featured)  |Capture the Flag write up's and hardware security research channel.
+[Nahamsec](https://www.youtube.com/c/Nahamsec/about) |Educational hacking videos for anyone with an interest in web application hacking with a focus on bug bounties.
 [NetworkChuck](https://www.youtube.com/user/NetworkChuck)  |Everything IT related, this channel is involved in.
+[STÖK](https://www.youtube.com/c/STOKfredrik/featured) |Content related to Cyber Security, Hacking, Penetration testing and Bug Bounties.
 [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |Helpful guides and tutorials that include indepth knowledge on certain subject matters.
