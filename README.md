@@ -34,8 +34,6 @@ Certificates | Description
 [Offensive Security Certified Professional - OSCP](https://www.offensive-security.com/pwk-oscp/)  |The OSCP is a foundational penetration testing certification, intended for those seeking a step up in their skills and career. PEN-200 and time in the practice labs prepare you for the certification exam.
 [Professor Messer](https://www.youtube.com/user/professormesser) |Well-known channel with quality courses preparing you for A+, Network+ and Security+ certifications.
 
-https://www.comptia.org/certifications/pentest
-
 ##  Online Courses
 Course | Description
 ---- | ----
